@@ -1,1 +1,3 @@
-python3 -m src.inference
+#!/bin/bash
+
+python3 scoring.py
